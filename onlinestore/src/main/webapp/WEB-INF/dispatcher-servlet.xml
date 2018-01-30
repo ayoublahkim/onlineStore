@@ -12,6 +12,7 @@
 
 	<!-- let the application know where are the controllers -->
 	<context:component-scan base-package="org.sid.onlinestore.controller" />
+	<context:component-scan base-package="org.sid.daoImpl" />
 
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">

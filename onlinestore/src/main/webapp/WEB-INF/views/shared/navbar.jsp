@@ -14,12 +14,13 @@
             <li class="nav-item" id="about">
               <a class="nav-link" href="/onlinestore/about">About</a>
             </li>
-            <li class="nav-item" id="viewproducts">
-              <a class="nav-link" href="/onlinestore/listProducts">View products</a>
-            </li>
-            <li class="nav-item" id="contact">
+             <li class="nav-item" id="contact">
               <a class="nav-link" href="/onlinestore/contact">Contact</a>
             </li>
+            <li class="nav-item" id="listproducts">
+              <a class="nav-link" href="/onlinestore/show/all/products">View products</a>
+            </li>
+           
           </ul>
         </div>
       </div>
